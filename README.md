@@ -7,6 +7,9 @@
   
 Honkai 编程语言
 
+<img src="https://count.getloli.com/get/@Honkai?theme=gelbooru">
+
+
 </div>
 
 
