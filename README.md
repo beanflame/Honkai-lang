@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-<h1><img src="Honkai.png" alt="Logo" height="180"></h1>
+<h1><img src="Honkai.png" alt="Logo" height="128"></h1>
 </a>
 
 ### Honkai 4.0
