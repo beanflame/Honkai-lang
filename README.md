@@ -15,5 +15,5 @@ Honkai 编程语言
 
 
 ```Honkai
-println("Honkai Hello World !") // 崩坏娘：太棒了！
+(println "Honkai Hello World !") // 崩坏娘：太棒了！
 ```
