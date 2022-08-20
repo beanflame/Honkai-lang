@@ -18,11 +18,11 @@ Honkai 编程语言
 
 fn main() {
   // 崩坏娘：太棒了！
-  (println "Honkai Hello World !") 
-  (println "Honkai Hello World !") 
-  (println "Honkai Hello World !") 
-  (println "Honkai Hello World !") 
-  (println "Honkai Hello World !") 
+  (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !")
+  (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !")
+  (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !")
+  (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !")
+  (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !") (println "Honkai Hello World !")
   (return 0)
 }
 
