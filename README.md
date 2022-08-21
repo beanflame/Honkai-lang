@@ -16,6 +16,8 @@ Honkai 编程语言
 
 
 
+
+
 ```Honkai
 fn main() {
   // 崩坏娘：太棒了！
@@ -28,3 +30,16 @@ fn main() {
 Honkai Hello World !
 Honkai Hello World !
 ```
+
+
+## Honkai Hello World !
+```Honkai
+(println "Honkai Hello World !")
+```
+
+```
+Honkai Hello World !
+```
+
+
+
