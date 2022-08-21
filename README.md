@@ -4,6 +4,8 @@
 </a>
 
 ### Honkai 4.0
+
+### HonkaiScript 1.0
   
 Honkai 编程语言
 
